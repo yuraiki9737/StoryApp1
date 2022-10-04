@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_light">#FCFAFF</color>
+    <color name="green">#EFE3FF</color>
+    <color name="green_dark">#AF9ACA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey_light">#A1A1A1</color>
+    <color name="black_light">#191919</color>
+    <color name="grey_100">#F4F4F4</color>
+    <color name="accents_50">#B28CAE</color>
+    <color name="toolbar">#9783B0</color>
+
+</resources>

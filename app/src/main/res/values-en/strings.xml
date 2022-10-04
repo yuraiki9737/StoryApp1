@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StoryAppSubMission1IntermediateAndroid</string>
+    <string name="storyApp">StoryApp</string>
+    <string name="welcome">Welcome to the Story App, a collection of stories from other people</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="account">You have not registered yet?</string>
+    <string name="registration">Register Now</string>
+    <string name="back">Back</string>
+    <string name="pageRegistration">Please fill out the account registration form below</string>
+    <string name="name">Name</string>
+    <string name="registrationButton">Account Registration</string>
+    <string name="settingaccount">Account Settings</string>
+    <string name="image_button">Yeah! you click the action button</string>
+    <string name="Email">Email</string>
+    <string name="settingapplication">Application Settings</string>
+    <string name="theme_mode">Dark Mode</string>
+    <string name="informationApplication">Application Info</string>
+    <string name="version_0_1">V.1.0</string>
+    <string name="info_fragment">This Story App is a sub mission 1 of the results of learning Intermediate Android in coding</string>
+    <string name="logout">Log out</string>
+    <string name="description">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="create">Create</string>
+    <string name="setting">Settings</string>
+    <string name="toolbar1">StoryApp</string>
+    <string name="addStory">Add Story</string>
+    <string name="ready">Start Now</string>
+    <string name="title_menu_1">Welcome to the Story App, the place to create stories and see stories from the experiences of experts and others</string>
+    <string name="title_menu_2">Let is start creating your story</string>
+    <string name="email">Email</string>
+    <string name="createdAccount">Your account was created successfully</string>
+    <string name="sukses">login Success!</string>
+    <string name="failed">Invalid username and password</string>
+    <string name="invalidAccount">account was not created successfully</string>
+    <string name="todo">TODO</string>
+    <string name="language">Language</string>
+    <string name="invalidEmail">Your email format is not correct</string>
+    <string name="info_logout">Are you sure you want to log out of your account?</string>
+    <string name="cancel">No</string>
+    <string name="Yes">Yes</string>
+    <string name="failed_pic">Failed to take photo</string>
+    <string name="failed_camera">Failed to load camera</string>
+    <string name="permission_no_granted">Permission is not granted</string>
+    <string name="success_upload">Story Upload Successful</string>
+    <string name="failed_retrofit">Failed to load retrofit</string>
+    <string name="add_warning_image">Please add your image</string>
+    <string name="invalidPassword">password cannot be less than 6 letters</string>
+    <string name="name_account">Enter your full name</string>
+    <string name="email_account">Enter your email</string>
+    <string name="password_account">Enter your password</string>
+
+
+
+
+</resources>
